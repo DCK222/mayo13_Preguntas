@@ -14,3 +14,5 @@ Los datos se envían al servidor back mediante la directiva HTTPClient el cual r
 Switchmap sirve para manejar flujos de datos anidados y asíncronos en formularios reactivos
 
 ## f. Proporciona un ejemplo de un formulario reactivo en Angular que incluya validación de campos
+https://github.com/DCK222/mayo13_Angular_Softtek_Front
+https://github.com/DCK222/mayo13_Angular_Softtek_Back
